@@ -1,5 +1,5 @@
 [package]
-name = "rust_io_project"
+name = "minigrep"
 version = "0.1.0"
 authors = ["brianboyko <brian.boyko@gmail.com>"]
 edition = "2018"
